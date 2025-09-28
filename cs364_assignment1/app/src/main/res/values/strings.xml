@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">BMI</string>
+    <string name="app_title">Body Mass Index</string>
+
+    <string name="label_weight">Weight (kg)</string>
+    <string name="label_height">Height (cm)</string>
+    <string name="label_bmi">BMI</string>
+    <string name="label_category">Category</string>
+
+    <string name="hint_weight">e.g. 65</string>
+    <string name="hint_height">e.g. 168</string>
+    <string name="btn_calculate">Calculate</string>
+
+    <string name="status_placeholder">—</string>
+
+    <!-- categories + risk -->
+    <string name="category_underweight">Underweight</string>
+    <string name="category_normal">Normal</string>
+    <string name="category_overweight">Overweight</string>
+    <string name="category_obese">Obese</string>
+
+    <string name="risk_lowest">Least risk</string>
+    <string name="risk_low">Low risk</string>
+    <string name="risk_increased">Increased risk</string>
+    <string name="risk_high">High risk</string>
+    <string name="category_with_risk">%1$s (%2$s)</string>
+
+    <string name="error_input">Please enter valid numbers.</string>
+    <string name="note_units">* Uses kilograms and centimeters</string>
+</resources>

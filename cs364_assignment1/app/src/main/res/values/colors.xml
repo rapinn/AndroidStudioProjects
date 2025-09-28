@@ -1,0 +1,20 @@
+<resources>
+    <!-- Orange palette -->
+    <color name="orange_050">#FFF5E6</color>
+    <color name="orange_100">#FFE0B2</color>
+    <color name="orange_900">#E65100</color>
+    <color name="orange_700">#F57C00</color>
+
+    <!-- Category/Risk colors -->
+    <color name="risk_blue">#1565C0</color>
+    <color name="risk_green">#2E7D32</color>
+    <color name="risk_orange">#EF6C00</color>
+    <color name="risk_red">#C62828</color>
+
+    <!-- Status colors -->
+    <color name="status_green">#2E7D32</color>
+    <color name="status_red">#C62828</color>
+
+    <!-- Text secondary -->
+    <color name="text_secondary">#616161</color>
+</resources>
